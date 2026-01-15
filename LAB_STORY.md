@@ -43,7 +43,9 @@ Steps (check them off inside the issue):
 - [ ] Clone the repo to your laptop.
     
 - [ ] Skim this `LAB_STORY.md` once so you know what’s coming.
-    
+This lab helped me understand how a market product system is structured and how different roles interact with each other.
+During the lab, I practiced working with Git and GitHub by creating a fork, making changes, and submitting a pull request.
+I also learned how to collaborate through comments and version control, which is an important skill for real-world software development.
 
 _When the steps are done, close the issue._
 

@@ -15,6 +15,7 @@ This and all other lab assignments will simulate the engineering practices in a 
 follow processes, communicate via issues/PRs, and keep the work reviewable.
 
 ---
+Update products architecture roles
 
 ## Tasks
 
